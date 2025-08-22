@@ -1,0 +1,60 @@
+ProductSubcategoryKey;SpanishProductSubcategoryName;ProductCategoryKey
+1;Carnes;1
+2;Vegetarianas;1
+3;Vegana;1
+4;Vacuno;2
+5;Cerdo;2
+6;Pollo;2
+7;Angus;2
+8;Cordero;2
+9;Chivo;2
+10;Caballo;2
+11;Gallina;2
+12;Pavo;2
+13;Cuy;2
+14;Pato;2
+15;Conejo;2
+16;Venado;2
+17;Jabali;2
+18;Reineta;3
+19;Salmon;3
+20;Toyo;3
+21;Jibia;3
+22;Machas;3
+23;Ostion;3
+24;Ostras;3
+25;Locos;3
+26;Coca Cola;4
+27;Fanta;4
+28;Vino Carmener;4
+29;Vino Cabernet;4
+30;Vino Merlot;4
+31;Pisco;4
+32;Whiskie;4
+33;Soda;4
+34;Tequila;4
+35;Cinzano;4
+36;Fernet;4
+37;Manzanilla;4
+38;Papas Mayo;5
+39;Jalea;5
+40;Torta;5
+41;Helado;5
+42;Frutas;5
+43;Papas Cocida;5
+44;Barros Luco;6
+45;Barros Jarpa;6
+46;Chemilico;6
+47;Chacarero;6
+48;Completos;6
+49;Lomito Completo;6
+50;Italiano;6
+51;Tomate;7
+52;Lechuga;7
+53;Pepino;7
+54;Quinoa;7
+55;Palta;8
+56;Mayonesa;8
+57;Aji;8
+58;Tomate;8
+59;Porotos Verdes;8
